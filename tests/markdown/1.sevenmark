@@ -22,3 +22,9 @@ __Underline__
 *
 ** 이건 볼드가 아님
 **
+
+**bold~~subscript~~**
+**bold *italic* **
+**bold ***not bolditalic*** **
+
+**asterisk should be tokenized above**
